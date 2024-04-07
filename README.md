@@ -34,3 +34,7 @@ The state-transition function \( \delta \) dictates the behavior of the FSM as i
 The set of final states \( F \) comprises states that, when reached by the FSM, signify the completion or acceptance of a computation. This set may be empty or contain one or more states, depending on the specific application of the FSM.
 
 In summary, the quintuple representation of a deterministic finite-state machine provides a comprehensive framework for understanding and analyzing the behavior of these computational models. Each component plays a vital role in defining the FSM's structure, transitions, and functionality within the context of computational theory and practice.
+\[
+M(\Sigma, S, s_0, \delta, F)
+\]
+
